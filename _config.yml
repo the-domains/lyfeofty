@@ -1,6 +1,6 @@
 name: lyfeofty
 favicon: null
-layout_spectrum: 0.0386030781082809
+layout_spectrum: 0.13193
 typography_spectrum: 0.4163656800519675
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#ccc6d0'
     - '#5a5f7c'
     - '#a7a3b2'
-  brandStrength: 0.9983980883844197
-  lightness: 0.8395760129205883
+  brandStrength: 0.75
+  lightness: 0.75
   saturation: 0.7243882881011814
   rhythmicContrast: 0.8388493729289621
 purpose: []
