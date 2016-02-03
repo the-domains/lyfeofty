@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[lyfeofty]]></title>
         <description><![CDATA[lyfeofty]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lyfeofty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 03:12:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 03:27:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lyfeofty/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8c8dab7-bf2f-4bd5-88f2-fe1f2382d11a.JPG">]]></description>
+            <link>https://thegrid.ai/lyfeofty/16861260-3a69-4198-87b3-00ad0bfd1e17/index.html</link>
+            <guid isPermaLink="false">16861260-3a69-4198-87b3-00ad0bfd1e17</guid>
+            <pubDate>Wed, 03 Feb 2016 03:27:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>testing testing</p>]]></description>
-            <link>undefined43849959-3af8-4985-bee4-5da96073f1a4/index.html</link>
+            <link>https://thegrid.ai/lyfeofty/43849959-3af8-4985-bee4-5da96073f1a4/index.html</link>
             <guid isPermaLink="false">43849959-3af8-4985-bee4-5da96073f1a4</guid>
             <pubDate>Wed, 03 Feb 2016 03:11:52 GMT</pubDate>
         </item>
